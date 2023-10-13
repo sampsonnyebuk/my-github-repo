@@ -1,7 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const logo = 'https://www.propelleraero.com/wp-content/uploads/2021/05/Vector.svg';
+
   return (
     <div className="App">
       <header className="App-header">
@@ -11,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href='https://www.propelleraero.com/dirtmate/'
           target="_blank"
           rel="noopener noreferrer"
         >
